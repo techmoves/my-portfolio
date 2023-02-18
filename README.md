@@ -71,11 +71,6 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Added a link to my deployed project.
-
-- [Live Demo Link](file:///C:/Users/phelelani%20ndlovu/Desktop/portfolio/index.html/)
 
 
 " alt="Portfolio-Finish-Mobile-Version_(iPhone SE)" width="300px"  height="auto" />

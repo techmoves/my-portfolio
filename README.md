@@ -73,8 +73,6 @@
 
 
 
-" alt="Portfolio-Finish-Mobile-Version_(iPhone SE)" width="300px"  height="auto" />
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->

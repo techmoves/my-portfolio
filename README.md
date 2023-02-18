@@ -118,9 +118,7 @@ To run tests, run the following command:
 ### Deployment
 
 - Project is deployed using [GitHub Pages](https://pages.github.com/)
-- [🚀 Live Demo Link Provided Above ⬆️](#live-demo)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -128,8 +126,8 @@ To run tests, run the following command:
 
 👤 ** Phelelani Ndlovu **
 
-- GitHub: @techmoves
-- Twitter: @Dopezonke
+- GitHub: [@techmoves](https://github.com/techmoves)
+- Twitter: @Dopezonke_
 - LinkedIn: https://www.linkedin.com/in/phelelani-ndlovu-883916160/
 
 

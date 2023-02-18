@@ -109,16 +109,16 @@ h2 {
 }
 
 .background-pic {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 120px 24px;
-    gap: 35px;
-    height: 100vh;
-    background-image: url(images/background.png);
-    background-position: right top;
-    background-size: 189px;
-    background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 120px 24px;
+  gap: 35px;
+  height: 100vh;
+  background-image: url(images/background.png);
+  background-position: right top;
+  background-size: 189px;
+  background-repeat: no-repeat;
 }
 
 #work {
@@ -332,9 +332,9 @@ h5 {
 
 #li-heading2 {
   list-style: url(images/);
-}.pn
+}
 
-#li-heading3 {
+.pn #li-heading3 {
   list-style: url(images/);
 }
 

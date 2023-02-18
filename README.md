@@ -77,7 +77,7 @@
 
 - [Live Demo Link](file:///C:/Users/phelelani%20ndlovu/Desktop/portfolio/index.html/)
 
-<img src="![_C__Users_phelelani%20ndlovu_Desktop_portfolio_index html(iPhone 12 Pro)](https://user-images.githubusercontent.com/110924992/219869150-2e95a6ea-b7d3-4696-87ed-7fdf1237ef43.png)
+
 " alt="Portfolio-Finish-Mobile-Version_(iPhone SE)" width="300px"  height="auto" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

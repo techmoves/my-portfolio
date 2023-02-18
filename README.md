@@ -31,7 +31,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [MY PORTFOLIO] <a name="about-project"></a>
+# 📖 MY PORTFOLIO <a name="about-project"></a>
 
 > A "portfolio" HTML-5 & CSS3 repository built during the portal learning module.
 > It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CSS3 flexbox, grid and figma.

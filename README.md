@@ -60,7 +60,7 @@
 
 > Key features of the application.
 
-- ** Navigation bar in Header-Section **
+- **Navigation bar in Header-Section**
 - **Homepage of Personal Portfolio**
 - **Built Work-Section**
 - **Built About-Section**

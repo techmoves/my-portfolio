@@ -176,6 +176,5 @@ Major thanks to [Nemwel Boniface](https://twitter.com/nemwel_bonie)
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Chandan-devs-tech/Portfolio/blob/feature/mobile-first/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

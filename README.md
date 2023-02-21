@@ -60,12 +60,13 @@
 
 > Key features of the application.
 
-- **[Navigation bar in Header-Section]**
-- **[Homepage of Personal Portfolio]**
-- **[Built Work-Section]**
-- **[Built About-Section]**
-- **[Built Language-Section]**
-- **[Built Footer-Section]**
+- **Navigation bar in Header-Section**
+- **Homepage of Personal Portfolio**
+- **Built Work-Section**
+- **Built About-Section**
+- **Built Language-Section**
+- **Built Footer-Section**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
